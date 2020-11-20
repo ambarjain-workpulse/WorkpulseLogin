@@ -1,4 +1,4 @@
-package com.workpulse.app.workpulse.login;
+package com.workpulse.app.workpulse.loginlibrary;
 
 import android.content.Context;
 import android.widget.Toast;

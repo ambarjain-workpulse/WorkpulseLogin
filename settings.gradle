@@ -1,2 +1,3 @@
+include ':LoginLibrary'
 include ':app'
 rootProject.name = "WorkpulseLogin"
